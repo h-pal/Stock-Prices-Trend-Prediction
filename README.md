@@ -10,9 +10,13 @@ Although stock prices are affected by a lot of Factors that cannot be predicted 
 We used NIFTY SHARES DATASET TILL JUNE 30TH, 2020 from [here](https://www.kaggle.com/rohanrao/nifty50-stock-market-data?select=INDUSINDBK.csv)
 
 # Requirements
-Python 3.7\n
-Keras 2.3"\n"
+Python 3.7
+
+Keras 2.3
+
 Numpy 1.18
+
 Pandas 1.0
+
 Matplotlib 3.1
 
