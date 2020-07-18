@@ -5,9 +5,6 @@ The project can be used to guess whether it is a good time to invest money in a 
 
 Although stock prices are affected by a lot of Factors that cannot be predicted like Economic conditions, Political factors, Natural calamities etc. but still the model shows a robust performance and can be used on any type of share dataset to predict the trend.  
 
-## Project done for the course of B.Sc.(H.) Computer Science at University of Delhi - Department of Computer Science
-## Team member
-[Vaibhav Maggo](https://github.com/vaibhav-711)
 
 # Data
 We used Nifty shares dataset till June 30th, 2020 from [here](https://www.kaggle.com/rohanrao/nifty50-stock-market-data?select=INDUSINDBK.csv)
