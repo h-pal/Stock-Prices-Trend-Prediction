@@ -9,6 +9,10 @@ Although stock prices are affected by a lot of Factors that cannot be predicted 
 # Data
 We used Nifty shares dataset till June 30th, 2020 from [here](https://www.kaggle.com/rohanrao/nifty50-stock-market-data?select=INDUSINDBK.csv)
 
+# Team Memebers
+
+Vaibhav Maggo
+
 # Requirements
 Python 3.7
 
